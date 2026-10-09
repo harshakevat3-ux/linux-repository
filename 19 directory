@@ -1,0 +1,19 @@
+19 directories
+bin -basic commands
+boot -pc chalane wali files
+dev -devices
+etc -configuration files
+home - tumhara personal folder
+lib - library file
+media - cd/USB lagao to yaha dikhega
+mnt -temporary mount
+opt -extra software,optional software
+proc -computer ki info
+rootn - admin ka home 
+run  - chal rahe program ki info
+sbin -admin commands
+srv -server data
+sys  - system info 
+tmp  -temporary files
+usr  - user programs
+var  -variable data
