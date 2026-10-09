@@ -1,0 +1,4 @@
+user management to keep the system secure 
+root user  /  all permission
+local users  1000-65000  - limited permission
+system user   1-999   - backend user,backendtask
