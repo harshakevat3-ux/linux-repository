@@ -1,0 +1,6 @@
+vim is a improved version of "vi"
+vim has 4 mode.
+normal mode -: cut,copy,past,delete
+insert mode -: typing, editing
+execute mode -: save an exit 
+visual mode -: select karne ke liye 
